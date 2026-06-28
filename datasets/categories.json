@@ -1,0 +1,18 @@
+[
+  { "name": "Dairy", "icon": "🥛", "default_shelf_life_days": 7 },
+  { "name": "Meat", "icon": "🥩", "default_shelf_life_days": 4 },
+  { "name": "Poultry", "icon": "🍗", "default_shelf_life_days": 3 },
+  { "name": "Seafood", "icon": "🐟", "default_shelf_life_days": 2 },
+  { "name": "Vegetables", "icon": "🥦", "default_shelf_life_days": 7 },
+  { "name": "Fruits", "icon": "🍎", "default_shelf_life_days": 7 },
+  { "name": "Bread", "icon": "🍞", "default_shelf_life_days": 5 },
+  { "name": "Eggs", "icon": "🥚", "default_shelf_life_days": 21 },
+  { "name": "Frozen", "icon": "🧊", "default_shelf_life_days": 180 },
+  { "name": "Canned", "icon": "🥫", "default_shelf_life_days": 730 },
+  { "name": "Dry Goods", "icon": "🌾", "default_shelf_life_days": 365 },
+  { "name": "Spices", "icon": "🌶️", "default_shelf_life_days": 730 },
+  { "name": "Beverages", "icon": "🧃", "default_shelf_life_days": 30 },
+  { "name": "Snacks", "icon": "🍿", "default_shelf_life_days": 90 },
+  { "name": "Condiments", "icon": "🍯", "default_shelf_life_days": 180 },
+  { "name": "Bakery", "icon": "🥐", "default_shelf_life_days": 5 }
+]
