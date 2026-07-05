@@ -127,4 +127,4 @@ See [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) for ER diagrams and system desi
 
 ## License
 
-MIT License — free to use, modify, and distribute.
+MIT License - free to use, modify, and distribute.
